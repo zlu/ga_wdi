@@ -42,11 +42,11 @@ users = {
     :favorite_numbers => [12, 42, 75],
   },
   "Omar" => {
-    :twitter => "?",
+    :twitter => "omardelarosa",
     :favorite_numbers => [8, 12, 24],
   },
   "Dylan" => {
-    :twitter => "?",
+    :twitter => "dylan_oshea",
     :favorite_numbers => [12, 14, 85],
   },
 }
